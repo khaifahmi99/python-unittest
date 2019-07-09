@@ -2,3 +2,5 @@
 
 def addTwoNumbers(a, b):
     return a + b + 2
+
+print(addTwoNumbers(3,3))
